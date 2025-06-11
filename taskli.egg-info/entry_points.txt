@@ -1,2 +1,2 @@
 [console_scripts]
-taskli = taskli.cli:app
+taskli = taskli.main:app

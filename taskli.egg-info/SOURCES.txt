@@ -1,7 +1,8 @@
 README.md
 setup.py
 taskli/__init__.py
-taskli/cli.py
+taskli/__main__.py
+taskli/main.py
 taskli.egg-info/PKG-INFO
 taskli.egg-info/SOURCES.txt
 taskli.egg-info/dependency_links.txt
