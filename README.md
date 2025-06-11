@@ -2,7 +2,6 @@
 
 A simple but beautiful command-line task manager with persistent storage.
 
-![taskli demo](demo.gif) *(optional: add screenshot/gif later)*
 
 ## Installation
 
